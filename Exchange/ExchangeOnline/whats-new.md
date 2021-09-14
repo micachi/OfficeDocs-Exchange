@@ -22,7 +22,7 @@ We're continuously adding new features to Exchange admin center (EAC), fixing is
 
 Exchange admin center now uses a new portal at <https://admin.exchange.microsoft.com>. This is a modern, web-based management console for managing Exchange, designed to provide an experience that is more aligned with the overall Microsoft 365 admin experience.
 
-For now, it is possible to switch back to the existing EAC (often called the "classic" EAC), but at a future date, the classic EAC will be retired.
+For now, it is possible to switch back to the existing EAC (often called the "classic" EAC), but on September 1, 2022, the classic EAC will be retired.
 
 ## February 2021
 
